@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "myfont";
+    src: url("Web/MMC-Regular.woff") format('woff');
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("Web/MMC-Bold.woff") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("Web/MMC-Medium.woff") format('woff');
+    font-weight: bold;
+    font-style: italic;
+}

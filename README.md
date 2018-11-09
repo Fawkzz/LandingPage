@@ -1,24 +1,19 @@
-# TESTE - ALPES ONE
+# LANDING PAGE
 
-The is my project:
-
-- 01 - LandPage
-- 02 - Layout Responsivo
-- 03 - Navegação
-- 04 - Botões
-- 05 - Imagens e centralizacao.
+Demonstracao de uma landing page responsiva utilizando bootstrap 4.
 
 ## Basic Setup
 
-1. [Install Node.js](http://https://nodejs.org/)
-2. Fork the [Bootstrap 4](https://getbootstrap.com/)
+1. Instalar [Node.js](http://https://nodejs.org/)
+2. No terminal (cmd) entre no diretório do seu projeto
+3. No terminal (cmd) execute:  npm install
 
 
 
 ## User Settings
 
 Title: Guilherme Junio Silva Simoes - Estagio Desenvolvedor Front-End
-Description: Teste 01
+Description: Landing Page
 E-mail: guilhermejunios@gmail.com
 Github: https://github.com/Fawkzz
 
